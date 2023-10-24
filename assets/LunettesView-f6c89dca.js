@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,b as o}from"./index-105800ce.js";const c={},n=o("p",null," LunettesView works! ",-1),r=[n];function _(a,i){return s(),t("div",null,r)}const d=e(c,[["render",_]]);export{d as default};
