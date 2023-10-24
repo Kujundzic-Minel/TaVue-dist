@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as c,a as e}from"./index-7bbea8db.js";const n="/assets/eiffel_personnaliser-0a6a3a3a.svg",o={},t=e("img",{src:n,alt:"Image d'accueil",class:"w-full"},null,-1),l=e("p",null,null,-1),r=[t,l];function _(i,d){return c(),a("div",null,r)}const u=s(o,[["render",_]]);export{u as default};
